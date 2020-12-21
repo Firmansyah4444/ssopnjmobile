@@ -33,6 +33,6 @@ public class ssoActivity extends AppCompatActivity {
         webView.getSettings().setSupportZoom(true);
         webView.getSettings().setBuiltInZoomControls(true);
         webView.setWebViewClient(eventClient);
-        webView.loadUrl("http://www.google.com");
+        webView.loadUrl("103.36.14.88");
     }
 }
